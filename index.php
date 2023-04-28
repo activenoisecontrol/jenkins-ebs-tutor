@@ -15,8 +15,8 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h3>This is probably not what you were expecting.</h3>
-                <p>To enjoy the full features from the <code>ebo-demo-php-simple-app</code> sample, you need to go to your Elastic Beanstlk environment, click Configuration and set your app's <strong>Document root</strong> to <strong>web</strong> and redeploy the app. Hurry back to see the real app at work!</p>
+                <h3>This is what you were expecting.</h3>
+                <p>You've configured Jenkins with GitHub and AWS EBS</p>
             </div>
         </div>
 
